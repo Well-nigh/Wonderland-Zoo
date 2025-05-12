@@ -1,0 +1,8 @@
+@media (min-width: 481px) and (max-width: 768px) {
+  .logo--text {
+    font-size: 8px;
+  }
+  .list--item {
+    font-size: 17px;
+  }
+} /*# sourceMappingURL=mobile.css.map */

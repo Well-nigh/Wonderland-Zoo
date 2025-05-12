@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<?xml-stylesheet type="text/css"   href="/css/data_xml.css" ?>
+<collection >
+<heading>
+<collection--header>Коллекция</collection--header>
+<header--subtitle>Звёзды Зоопарка</header--subtitle>
+</heading>
+<gallery--section_first>
+<gallery--imgs--container>
+<image1></image1>
+<image--text1>Амурский тигр</image--text1>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image2></image2>
+<image--text2>Леопард</image--text2>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image3></image3>
+<image--text3>Гепард</image--text3>
+</gallery--imgs--container>
+</gallery--section_first>
+<gallery--section_second>
+<gallery--imgs--container>
+<image4></image4>
+<image--text4>Бурый медведь</image--text4>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image5></image5>
+<image--text5>Попугай Ара</image--text5>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image6></image6>
+<image--text6>Крокодил</image--text6>
+</gallery--imgs--container>
+</gallery--section_second>
+<gallery--section_third>
+<gallery--imgs--container>
+<image7></image7>
+<image--text7>Африканский Лев</image--text7>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image8></image8>
+<image--text8>Жираф</image--text8>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image9></image9>
+<image--text9>Анаконда</image--text9>
+</gallery--imgs--container>
+</gallery--section_third>
+<gallery--section_fourth>
+<gallery--imgs--container>
+<image10></image10>
+<image--text10>Карпозубик</image--text10>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image11></image11>
+<image--text11>Крылатка-зебра</image--text11>
+</gallery--imgs--container>
+<gallery--imgs--container>
+<image12></image12>
+<image--text12>Мшистая лягушка</image--text12>
+</gallery--imgs--container>
+</gallery--section_fourth>
+</collection>
