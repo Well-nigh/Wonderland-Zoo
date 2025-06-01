@@ -43,13 +43,13 @@ header {
         color: #88d498;
         text-align: center;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .logo--text {
           font-size: 15px;
         }
       }
     }
-    @media (min-width: 480px) and (max-width: 768px) {
+    @media (min-width: 375px) and (max-width: 480px) {
       .logo {
         width: 112px;
         height: 50px;
@@ -75,13 +75,13 @@ header {
           color: #88d498;
         }
 
-        @media (min-width: 480px) and (max-width: 768px) {
+        @media (min-width: 375px) and (max-width: 480px) {
           .list--item {
             font-size: 15px;
           }
         }
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .list {
           gap: 2px;
           flex-wrap: wrap;
@@ -103,7 +103,7 @@ header {
         }
       }
     }
-    @media (min-width: 480px) and (max-width: 768px) {
+    @media (min-width: 375px) and (max-width: 480px) {
       .time--block {
         width: 111px;
         height: 32px;
@@ -127,7 +127,6 @@ main {
   .main--info {
     background-image: url(/Assets/Images/main_image.png);
     background-size: 100%;
-
     background-repeat: no-repeat;
   }
 }
@@ -138,7 +137,7 @@ main {
   padding-top: 2%;
   padding-bottom: 5%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .main--title {
     font-size: 30px;
     padding-bottom: 0%;
@@ -147,9 +146,9 @@ main {
 .main--info {
   height: 1000px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .main--info {
-    height: 216px;
+    height: 210px;
   }
 }
 .main--text {
@@ -167,10 +166,10 @@ main {
   .main--text--about2 {
     text-align: right;
   }
-  @media (min-width: 480px) and (max-width: 768px) {
+  @media (min-width: 375px) and (max-width: 480px) {
     .main--text--about,
     .main--text--about2 {
-      font-size: 15px;
+      font-size: 10px;
       flex-basis: 40%;
     }
   }
@@ -186,9 +185,9 @@ main {
     padding-top: 3%;
     color: #000f08;
   }
-  @media (min-width: 480px) and (max-width: 768px) {
+  @media (min-width: 375px) and (max-width: 480px) {
     .news--title {
-      font-size: 25px;
+      font-size: 20px;
     }
   }
   .news--block--info {
@@ -206,9 +205,9 @@ main {
         font-size: 30px;
         text-align: center;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .news--block--title {
-          font-size: 12px;
+          font-size: 10px;
         }
       }
       .news--block--text2 {
@@ -217,26 +216,26 @@ main {
         text-align: center;
         vertical-align: middle;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .news--block--text2 {
-          font-size: 10px;
+          font-size: 8px;
           padding: 12%;
         }
       }
       .news--block--text {
         padding: 15%;
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
         vertical-align: middle;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .news--block--text {
-          font-size: 10px;
+          font-size: 8px;
           padding: 12%;
         }
       }
     }
-    @media (min-width: 480px) and (max-width: 768px) {
+    @media (min-width: 375px) and (max-width: 480px) {
       .info--block {
         height: 222px;
         width: 120px;
@@ -244,7 +243,7 @@ main {
     }
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block {
     height: 304px;
   }
@@ -266,7 +265,7 @@ footer {
         color: #fff;
         text-align: center;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .item--header {
           font-size: 10px;
         }
@@ -281,13 +280,13 @@ footer {
           padding-left: 2%;
         }
 
-        @media (min-width: 480px) and (max-width: 768px) {
+        @media (min-width: 375px) and (max-width: 480px) {
           .item--img--text {
             font-size: 8px;
           }
         }
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .item--img-text {
           width: 62px;
           height: 24px;
@@ -309,7 +308,7 @@ footer {
         color: #88d498;
         font-size: 16px;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .item--link {
           font-size: 8px;
         }
@@ -319,13 +318,13 @@ footer {
         padding-top: 8%;
         font-size: 16px;
       }
-      @media (min-width: 480px) and (max-width: 768px) {
+      @media (min-width: 375px) and (max-width: 480px) {
         .tickets--text {
           font-size: 8px;
         }
       }
     }
-    @media (min-width: 480px) and (max-width: 768px) {
+    @media (min-width: 375px) and (max-width: 480px) {
       .item--tickets--info {
         margin-left: 30%;
       }
@@ -336,7 +335,7 @@ footer {
       display: flex;
       gap: 25px;
     }
-    @media (min-width: 480px) and (max-width: 768px) {
+    @media (min-width: 375px) and (max-width: 480px) {
       .item--social-net img {
         height: 24px;
         width: 24px;
@@ -344,7 +343,7 @@ footer {
     }
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer {
     height: 150px;
   }

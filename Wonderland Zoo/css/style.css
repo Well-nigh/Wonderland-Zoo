@@ -49,12 +49,12 @@ header .navigation .logo .logo--text {
   color: #88d498;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .logo .logo--text {
     font-size: 15px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .logo {
     width: 112px;
     height: 50px;
@@ -79,12 +79,12 @@ header .navigation .nav .list .list--item {
   font-size: 30px;
   color: #88d498;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .nav .list .list--item {
     font-size: 15px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .nav .list {
     gap: 2px;
     flex-wrap: wrap;
@@ -105,7 +105,7 @@ header .navigation .time--block .time--text {
 header .navigation .time--block .time--text .time--text--span {
   font-size: 20px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .time--block {
     width: 111px;
     height: 32px;
@@ -140,7 +140,7 @@ main .main--info {
   padding-bottom: 5%;
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .main--title {
     font-size: 30px;
     padding-bottom: 0%;
@@ -150,9 +150,9 @@ main .main--info {
   height: 1000px;
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .main--info {
-    height: 216px;
+    height: 210px;
   }
 }
 .main--text {
@@ -171,10 +171,10 @@ main .main--info {
 .main--text .main--text--about2 {
   text-align: right;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .main--text .main--text--about,
   .main--text .main--text--about2 {
-    font-size: 15px;
+    font-size: 10px;
     flex-basis: 40%;
   }
 }
@@ -190,9 +190,9 @@ main .main--info {
   padding-top: 3%;
   color: #000f08;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block .news--title {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 .news--block .news--block--info {
@@ -212,9 +212,9 @@ main .main--info {
   font-size: 30px;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block .news--block--info .info--block .news--block--title {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 .news--block .news--block--info .info--block .news--block--text2 {
@@ -223,32 +223,32 @@ main .main--info {
   text-align: center;
   vertical-align: middle;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block .news--block--info .info--block .news--block--text2 {
-    font-size: 10px;
+    font-size: 8px;
     padding: 12%;
   }
 }
 .news--block .news--block--info .info--block .news--block--text {
   padding: 15%;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
   vertical-align: middle;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block .news--block--info .info--block .news--block--text {
-    font-size: 10px;
+    font-size: 8px;
     padding: 12%;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block .news--block--info .info--block {
     height: 222px;
     width: 120px;
   }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .news--block {
     height: 304px;
   }
@@ -273,7 +273,7 @@ footer .footer--content .content--item .item--header {
   color: #fff;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--header {
     font-size: 10px;
   }
@@ -288,12 +288,12 @@ footer .footer--content .content--item .item--img-text .item--img--text {
   color: #88d498;
   padding-left: 2%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--img-text .item--img--text {
     font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--img-text {
     width: 62px;
     height: 24px;
@@ -315,7 +315,7 @@ footer .footer--content .item--tickets--info .item--link {
   color: #88d498;
   font-size: 16px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info .item--link {
     font-size: 8px;
   }
@@ -325,12 +325,12 @@ footer .footer--content .item--tickets--info .tickets--text {
   padding-top: 8%;
   font-size: 16px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info .tickets--text {
     font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info {
     margin-left: 30%;
   }
@@ -341,14 +341,14 @@ footer .footer--content .item--social-net {
   display: flex;
   gap: 25px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--social-net img {
     height: 24px;
     width: 24px;
   }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer {
     height: 150px;
   }

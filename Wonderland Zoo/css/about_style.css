@@ -49,12 +49,12 @@ header .navigation .logo .logo--text {
   color: #88d498;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .logo .logo--text {
     font-size: 15px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .logo {
     width: 112px;
     height: 50px;
@@ -79,12 +79,12 @@ header .navigation .nav .list .list--item {
   font-size: 30px;
   color: #88d498;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .nav .list .list--item {
     font-size: 15px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .nav .list {
     gap: 2px;
     flex-wrap: wrap;
@@ -105,7 +105,7 @@ header .navigation .time--block .time--text {
 header .navigation .time--block .time--text .time--text--span {
   font-size: 20px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .time--block {
     width: 111px;
     height: 32px;
@@ -138,7 +138,7 @@ main .history--block .block--header {
   text-align: center;
   color: #000f08;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .history--block .block--header {
     font-size: 30px;
   }
@@ -166,36 +166,36 @@ main .block--content .content--text3 {
 main .block--content .content--image3 {
   width: 529px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .block--content .content--image3 {
-    width: 209px;
+    width: 109px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .block--content .content--text3 {
-    font-size: 10px;
+    font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .block--content .content--text2 {
-    font-size: 10px;
+    font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .block--content .content--text {
-    font-size: 10px;
+    font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .block--content .content--image {
-    height: 204px;
-    width: 214px;
+    height: 154px;
+    width: 114px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .block--content .content--image2 {
-    height: 222px;
-    width: 218px;
+    height: 172px;
+    width: 118px;
   }
 }
 main .employees--section {
@@ -207,9 +207,9 @@ main .employees--section .employees--header {
   padding-bottom: 2%;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .employees--section .employees--header {
-    font-size: 25px;
+    font-size: 20px;
   }
 }
 main .employees--section .employees--block {
@@ -221,7 +221,7 @@ main .employees--section .employees--block {
 main .employees--section .employees--block .img--border {
   border: #88d498 10px solid;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .employees--section .employees--block .img--border {
     border: #88d498 solid 5px;
   }
@@ -231,22 +231,22 @@ main .employees--section .employees--block .employees--about {
   padding-top: 2%;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .employees--section .employees--block .employees--about {
-    font-size: 8px;
+    font-size: 7px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .employees--section .employees--block img {
-    width: 127px;
+    width: 100px;
     height: 73px;
     border: #88d498 solid 5px;
   }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main {
-    height: 1170px;
+    height: 1000px;
   }
 }
 footer {
@@ -269,7 +269,7 @@ footer .footer--content .content--item .item--header {
   color: #fff;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--header {
     font-size: 10px;
   }
@@ -284,12 +284,12 @@ footer .footer--content .content--item .item--img-text .item--img--text {
   color: #88d498;
   padding-left: 2%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--img-text .item--img--text {
     font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--img-text {
     width: 62px;
     height: 24px;
@@ -311,7 +311,7 @@ footer .footer--content .item--tickets--info .item--link {
   color: #88d498;
   font-size: 16px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info .item--link {
     font-size: 8px;
   }
@@ -321,12 +321,12 @@ footer .footer--content .item--tickets--info .tickets--text {
   padding-top: 8%;
   font-size: 16px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info .tickets--text {
     font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info {
     margin-left: 30%;
   }
@@ -337,14 +337,14 @@ footer .footer--content .item--social-net {
   display: flex;
   gap: 25px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--social-net img {
     height: 24px;
     width: 24px;
   }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer {
     height: 150px;
   }

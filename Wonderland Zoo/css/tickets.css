@@ -49,12 +49,12 @@ header .navigation .logo .logo--text {
   color: #88d498;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .logo .logo--text {
     font-size: 15px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .logo {
     width: 112px;
     height: 50px;
@@ -79,12 +79,12 @@ header .navigation .nav .list .list--item {
   font-size: 30px;
   color: #88d498;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .nav .list .list--item {
     font-size: 15px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .nav .list {
     gap: 2px;
     flex-wrap: wrap;
@@ -105,7 +105,7 @@ header .navigation .time--block .time--text {
 header .navigation .time--block .time--text .time--text--span {
   font-size: 20px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header .navigation .time--block {
     width: 111px;
     height: 32px;
@@ -135,7 +135,7 @@ main .tickets--section .tickets--header {
   font-size: 60px;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .tickets--header {
     font-size: 30px;
   }
@@ -151,7 +151,7 @@ main .tickets--section .tickets--subtitle {
   color: #fff;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .tickets--subtitle {
     font-size: 20px;
     padding: 1% 4%;
@@ -169,7 +169,7 @@ main .tickets--section .tickets--info .tickets--cost .cost--title {
   font-size: 40px;
   padding-bottom: 2%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .tickets--info .tickets--cost .cost--title {
     font-size: 15px;
   }
@@ -185,7 +185,7 @@ main .tickets--section .tickets--info .tickets--cost .cost--list .cost--variant 
 main .tickets--section .tickets--info .tickets--cost .cost--list .cost--variant .cost--decoration {
   color: #136f63;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .tickets--info .tickets--cost .cost--list .cost--variant {
     font-size: 15px;
   }
@@ -194,7 +194,7 @@ main .tickets--section .tickets--info .tickets--cost .cost--info {
   color: #136f63;
   font-size: 25px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .tickets--info .tickets--cost .cost--info {
     font-size: 10px;
   }
@@ -207,7 +207,7 @@ main .tickets--section .cost--additional--list .cost--add--item {
   list-style-type: disc;
   font-size: 20px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .cost--additional--list .cost--add--item {
     font-size: 15px;
   }
@@ -215,7 +215,7 @@ main .tickets--section .cost--additional--list .cost--add--item {
 main .tickets--section .cost--additional--info {
   font-size: 20px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .cost--additional--info {
     font-size: 15px;
     padding-left: 5px;
@@ -225,7 +225,7 @@ main .tickets--section .tickets--bying {
   font-size: 20px;
   padding-bottom: 1%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .tickets--bying {
     font-size: 15px;
   }
@@ -237,7 +237,7 @@ main .tickets--section .bying--list .bying--list--item {
   font-size: 20px;
   padding-bottom: 1%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   main .tickets--section .bying--list .bying--list--item {
     font-size: 15px;
   }
@@ -263,7 +263,7 @@ footer .footer--content .content--item .item--header {
   color: #fff;
   text-align: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--header {
     font-size: 10px;
   }
@@ -278,12 +278,12 @@ footer .footer--content .content--item .item--img-text .item--img--text {
   color: #88d498;
   padding-left: 2%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--img-text .item--img--text {
     font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .content--item .item--img-text {
     width: 62px;
     height: 24px;
@@ -305,7 +305,7 @@ footer .footer--content .item--tickets--info .item--link {
   color: #88d498;
   font-size: 16px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info .item--link {
     font-size: 8px;
   }
@@ -315,12 +315,12 @@ footer .footer--content .item--tickets--info .tickets--text {
   padding-top: 8%;
   font-size: 16px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info .tickets--text {
     font-size: 8px;
   }
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--tickets--info {
     margin-left: 30%;
   }
@@ -331,14 +331,14 @@ footer .footer--content .item--social-net {
   display: flex;
   gap: 25px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer .footer--content .item--social-net img {
     height: 24px;
     width: 24px;
   }
 }
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   footer {
     height: 150px;
   }

@@ -8,7 +8,7 @@ heading {
   margin-left: 38%;
   margin-right: 38%;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   heading {
     margin-left: 0%;
     margin-right: 0%;
@@ -19,7 +19,7 @@ collection--header {
   justify-content: center;
   font-size: 60px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   collection--header {
     font-size: 30px;
   }
@@ -35,7 +35,7 @@ header--subtitle {
   background-color: #88d498;
   color: #fff;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   header--subtitle {
     font-size: 15px;
     width: 243px;
@@ -87,7 +87,7 @@ image1 {
 .sen {
   font-size: 20px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   .sen {
     font-size: 5px;
   }
@@ -111,7 +111,7 @@ image1 {
   text-align: center;
   width: 300px;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   #text1,
   #text2,
   #text3,
@@ -133,7 +133,7 @@ image1 {
 .invis {
   background-image: none;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image1 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@ image--text1 {
   display: flex;
   justify-content: center;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text1 {
     font-size: 10px;
     margin-left: 3%;
@@ -171,7 +171,7 @@ image2 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image2 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -193,7 +193,7 @@ image--text2 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text2 {
     font-size: 10px;
     margin-left: 6%;
@@ -209,7 +209,7 @@ image3 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image3 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ image--text3 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text3 {
     font-size: 10px;
     margin-left: 7%;
@@ -247,7 +247,7 @@ image4 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image4 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -269,7 +269,7 @@ image--text4 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text4 {
     font-size: 10px;
     margin-left: 3%;
@@ -285,7 +285,7 @@ image5 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image5 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -306,7 +306,7 @@ image--text5 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text5 {
     font-size: 10px;
     margin-left: 4%;
@@ -321,7 +321,7 @@ image6 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image6 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -342,7 +342,7 @@ image--text6 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text6 {
     font-size: 10px;
     margin-left: 5.5%;
@@ -357,7 +357,7 @@ image7 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image7 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -378,7 +378,7 @@ image--text7 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text7 {
     font-size: 10px;
     margin-left: 1.5%;
@@ -393,7 +393,7 @@ image8 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image8 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -414,7 +414,7 @@ image--text8 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text8 {
     font-size: 10px;
     margin-left: 6.5%;
@@ -429,7 +429,7 @@ image9 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image9 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -450,7 +450,7 @@ image--text9 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text9 {
     font-size: 10px;
     margin-left: 5.5%;
@@ -465,7 +465,7 @@ image10 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image10 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -486,7 +486,7 @@ image--text10 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text10 {
     font-size: 10px;
     margin-left: 4.5%;
@@ -501,7 +501,7 @@ image11 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image11 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -522,7 +522,7 @@ image--text11 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text11 {
     font-size: 10px;
     margin-left: 2.7%;
@@ -537,7 +537,7 @@ image12 {
   position: relative;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image12 {
     background-size: 100px;
     background-repeat: no-repeat;
@@ -558,7 +558,7 @@ image--text12 {
   justify-content: center;
   z-index: 2;
 }
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 375px) and (max-width: 480px) {
   image--text12 {
     font-size: 10px;
     margin-left: 1.5%;
